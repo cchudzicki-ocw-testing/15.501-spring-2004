@@ -6,7 +6,12 @@ description: This resource includes problems on use of the BSE to record transac
   material.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/cd0b4e3308fac144a982fbd7af7b3855_ps1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ps1.pdf
+type: OCWFile
 uid: cd0b4e33-08fa-c144-a982-fbd7af7b3855
 ---

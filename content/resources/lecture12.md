@@ -4,7 +4,12 @@ description: 'Lecture presentation covering the following topic: Changes in Depr
   Estimates caused by the change in asset life or Salvage value.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/9b4ba53dee70a298bd7829b4918e6780_lecture12.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture12.pdf
+type: OCWFile
 uid: 9b4ba53d-ee70-a298-bd78-29b4918e6780
 ---

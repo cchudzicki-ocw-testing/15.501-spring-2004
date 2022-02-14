@@ -4,7 +4,12 @@ description: 'Lecture presentation covering the following topics: Reports operat
   cash flow as well as other cash flow information.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/381ce79679cc51313adfbe13884d2c56_lecture9.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture9.pdf
+type: OCWFile
 uid: 381ce796-79cc-5131-3adf-be13884d2c56
 ---

@@ -4,7 +4,12 @@ description: This resource includes solutions to problems on long-term debt, lea
   and Off-Balance Sheet financing.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/4b92942562556110c645ffacf5e78c6d_ps7_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ps7_sol.pdf
+type: OCWFile
 uid: 4b929425-6255-6110-c645-ffacf5e78c6d
 ---

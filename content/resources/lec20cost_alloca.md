@@ -4,7 +4,12 @@ description: 'Lecture presentation covering the following topics: cost allocatio
   and Destin Brass.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/5f4d4f23a5daee37df63fef764e09f1e_lec20cost_alloca.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec20cost_alloca.pdf
+type: OCWFile
 uid: 5f4d4f23-a5da-ee37-df63-fef764e09f1e
 ---

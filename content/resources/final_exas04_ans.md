@@ -3,7 +3,12 @@ content_type: resource
 description: Solutions to the final exam problems.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/de8acaa36de86f97d1a88c3f3a61e55b_final_exas04_ans.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: final_exas04_ans.pdf
+type: OCWFile
 uid: de8acaa3-6de8-6f97-d1a8-8c3f3a61e55b
 ---

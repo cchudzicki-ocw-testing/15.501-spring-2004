@@ -4,7 +4,12 @@ description: This resource includes solutions to problems on accounting for depr
   Delta-Pan Am airlines case write-up.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/23509fe119b9ee12f45c570742397db5_ps5_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ps5_sol.pdf
+type: OCWFile
 uid: 23509fe1-19b9-ee12-f45c-570742397db5
 ---

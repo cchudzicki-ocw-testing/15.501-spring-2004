@@ -5,7 +5,12 @@ description: 'Lecture presentation covering the following topics: Overview of ma
   traditional method, Product costing: activity based costing.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/c70a94f8d335a139ab947cc605b92fe2_lec19cost_acc.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec19cost_acc.pdf
+type: OCWFile
 uid: c70a94f8-d335-a139-ab94-7cc605b92fe2
 ---
