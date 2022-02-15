@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: lec20cost_alloca.pdf
-type: OCWFile
 uid: 5f4d4f23-a5da-ee37-df63-fef764e09f1e
 ---

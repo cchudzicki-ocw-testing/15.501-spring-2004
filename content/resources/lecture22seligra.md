@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: lecture22seligra.pdf
-type: OCWFile
 uid: 0ee242cb-5536-07c0-73a0-493f7e6d798b
 ---

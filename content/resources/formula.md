@@ -10,6 +10,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: formula.pdf
-type: OCWFile
 uid: 33705399-b5f9-5a8e-e609-76e2e64667c6
 ---

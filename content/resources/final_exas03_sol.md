@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: final_exas03_sol.pdf
-type: OCWFile
 uid: 9d47bb82-c03f-f731-d3ab-af978d63bf7c
 ---

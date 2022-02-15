@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: ps8_seligram.pdf
-type: OCWFile
 uid: 488830e0-0eb3-59bd-4682-e47ff75b64e4
 ---

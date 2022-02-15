@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: mid2_fall03.pdf
-type: OCWFile
 uid: 8b8a6dbd-593d-f2fe-96bc-edd949c0c40e
 ---

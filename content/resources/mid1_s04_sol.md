@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: mid1_s04_sol.pdf
-type: OCWFile
 uid: 30804aa3-d536-d8ca-7057-b2f8713a5c10
 ---

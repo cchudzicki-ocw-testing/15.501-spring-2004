@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: lec21cost_alloii.pdf
-type: OCWFile
 uid: 2f087dd9-85b6-b46d-d358-a98d956643d1
 ---

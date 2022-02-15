@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: lec19cost_acc.pdf
-type: OCWFile
 uid: c70a94f8-d335-a139-ab94-7cc605b92fe2
 ---

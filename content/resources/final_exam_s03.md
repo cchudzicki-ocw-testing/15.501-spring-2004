@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: final_exam_s03.pdf
-type: OCWFile
 uid: 7b0662d1-555c-9f89-9965-dd973a707967
 ---

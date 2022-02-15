@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: final_exas04_ans.pdf
-type: OCWFile
 uid: de8acaa3-6de8-6f97-d1a8-8c3f3a61e55b
 ---

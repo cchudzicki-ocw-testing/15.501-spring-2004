@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: mid1_f03.pdf
-type: OCWFile
 uid: e7f2f383-87fa-c9d3-fe00-dd6641a5d781
 ---

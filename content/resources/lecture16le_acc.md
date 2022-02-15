@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: lecture16le_acc.pdf
-type: OCWFile
 uid: 00d9475e-1349-0d27-19cf-e20c821be080
 ---

@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: lecture18bu_comb.pdf
-type: OCWFile
 uid: 85c3c71a-e2b3-4a86-41d3-f945b9dd25ac
 ---

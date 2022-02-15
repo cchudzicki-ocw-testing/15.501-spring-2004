@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: lecture13market.pdf
-type: OCWFile
 uid: f4644294-9105-ec27-adf5-fcf3769a8180
 ---
