@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The problem sets are to be done individually and are intended to help
+  the student learn and practice the mechanics of the course material.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
